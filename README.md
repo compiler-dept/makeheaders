@@ -12,7 +12,7 @@ has proven very helpful in reducing the complexing and improving the reliability
 of these projects. It is very fast and very easy to use, requiring almost no
 changes to the coding styles employed by most C or C++ programmers.
 
-Complete [documentation](http://www.hwaci.com/sw/mkhdr/makeheaders.html) is
+Complete [documentation](http://compiler-dept.github.io/makeheaders/) is
 available on-line. The source code to makeheaders is contained in a single ANSI
 C file that is known to compile on a variety of Unix and Win32 platforms. The
 [source
